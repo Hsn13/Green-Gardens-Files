@@ -1,0 +1,25 @@
+
+body{background-color:#e6ffe6 ;margin:0;padding:0;font-family:"Arial";}
+#container {background-color:white; margin-left:30px;margin-right:30px}
+#title {background-color: #008000;font-size:36px; color:white;}
+#search{margin-top:15px; float:left;}
+#login{float:right;margin-top:15px;}
+#login a{text-decoration: none; color:#1f916e;}
+#login a:hover{text-decoration: underline;}
+#logo{clear: both; float:left;}
+#logo img{height:95px;width:95px;}
+#cart{float:right;}
+#cart img{height:95px;width:95px;}
+#menu{width:100%;background-color:#90ee90;border-collapse: collapse;}
+#menu td{text-align: center;border:3px solid white;color:#239e35;padding: 10px;}
+#list{margin-top: 20px;width: 25%; float:left;}
+#list a {text-decoration: none; color:#319930;}
+#list a:hover{color:blue;}
+#content{float:right;width:75%;}
+#veg img{padding-bottom:1em;width:180px;}
+#veg a{text-align:left; font-weight:none;text-decoration: none;color:#319930;font-size:16px;}
+#veg {margin:center;}
+#veg a:hover{text-decoration: underline;}
+#veg td{white-space:wrap;text-align:center;padding-bottom:1em}
+#footer{width:100%;background-color: #99cc99;border-collapse:collapse;margin-top:20px;}
+#footer td{border:3px solid white;text-align: center;padding:10px;color:#138c31;}
